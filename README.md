@@ -4,7 +4,7 @@ Simple REPL project that utilises the [PokeApi](https://pokeapi.co/) to explore 
 
 ## Commands
 
-### inspect <name of pokemon>
+### inspect \<name of pokemon>
 Inspect a caught Pokemon
 ### pokedex
 List the name of all Pokemon in user's pokedex
@@ -20,10 +20,10 @@ Displays 20 location areas in Pokemon World. Reusing this command will load the 
 ### mapb
 Displays 20 previous location areas in Pokemon World
 
-### explore <name of location area>
+### explore \<name of location area>
 Displays list of Pokemon in location area
 
-### catch <name of pokemon>
+### catch \<name of pokemon>
 Attempts to catch a specified Pokemon
 
 # Acknowledgements
